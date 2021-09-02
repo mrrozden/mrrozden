@@ -1,6 +1,6 @@
 <!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=cobanov&show_icons=true"> -->
 
-# Merhaba, ben Şakir ÖZDEN! 
+# Merhaba, ben Şakir ÖZDEN 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=cobanov" alt="cobanov" /> </p> -->
 
 
